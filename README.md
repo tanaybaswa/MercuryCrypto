@@ -2,3 +2,5 @@
 
 ## Introduction
 Using Web 3.0 methodologies, Solidity and Metamask, a tailwind-styled react web app that allows a user to connect to their metamask wallet and send ETH to any address in the world! More features coming soon!  
+
+To run, CD into the client directory and run "npm run dev"
